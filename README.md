@@ -26,10 +26,10 @@ Hi, I'm **Tamim Hossain** — a results-driven Software Engineer with a strong b
 I thrive on solving complex problems, contributing to open-source projects, and driving innovation in fast-paced environments.
 
 - 💼 **Role:** Senior Software Engineer | Tech Lead  
-- 🌍 **Location:** [Your City, Country]  
+- 🌍 **Location:** Dhaka, Bangladesh. 
 - 🎯 **Mission:** Delivering reliable solutions and fostering collaborative growth  
-- 🗣️ **Languages:** English, [Other Languages]  
-- 📫 **Contact:** your-email@gmail.com
+- 🗣️ **Languages:** English,Bangla,Hindi  
+- 📫 **Contact:** mdtamimhossen556@gmail.com
 
 ---
 
@@ -73,8 +73,8 @@ I thrive on solving complex problems, contributing to open-source projects, and 
 ## 📬 Connect with Me
 
 <p align="center">
-  <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/your-linkedin/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:mdtamimhossen556@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/md-tamim-hossen-a4204932b/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://twitter.com/your-twitter"><img src="https://img.shields.io/badge/-Twitter-1da1f2?style=for-the-badge&logo=twitter&logoColor=white"></a>
   <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/-Portfolio-222?style=for-the-badge"></a>
 </p>
