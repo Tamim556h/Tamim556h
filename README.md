@@ -5,7 +5,7 @@
 
 <!-- Animated Greeting -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=800&color=3F5EFB&center=true&vCenter=true&width=440&lines=Building+robust+solutions+with+passion.; AI+/+ML+Enthusiast. ;Empowering+teams+and+communities.;Delivering+impactful+code+every+day." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=800&color=3F5EFB&center=true&vCenter=true&width=440&lines=Building+robust+solutions+with+passion.; AI+ML+Enthusiast.;Empowering+teams+and+communities.;Delivering+impactful+code+every+day." alt="Typing SVG" />
 </p>
 
 <!-- Avatar and Social Badges -->
@@ -60,8 +60,8 @@ I thrive on solving complex problems, contributing to open-source projects, and 
 
 ### 🌐 Web Development
 
-![alt text](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![alt text](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![alt text](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html&logoColor=white)
+![alt text](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css&logoColor=white)
 ![alt text](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![alt text](https://img.shields.io/badge/node.js-6DA55F?logo=node.js&logoColor=white)
 ![alt text](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
