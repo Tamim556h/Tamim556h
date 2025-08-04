@@ -5,7 +5,7 @@
 
 <!-- Animated Greeting -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=800&color=3F5EFB&center=true&vCenter=true&width=440&lines=Bbuilding+robust+solutions+with+passion.;AI+ML+Enthusiast.;Delivering+impactful+code+every+day." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=800&color=3F5EFB&center=true&vCenter=true&width=440&lines=Bubuilding+robust+solutions+with+passion.;AI+ML+Enthusiast.;Delivering+impactful+code+every+day." alt="Typing SVG" />
 </p>
 
 <!-- Avatar and Social Badges -->
