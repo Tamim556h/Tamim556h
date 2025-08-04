@@ -33,20 +33,48 @@ I thrive on solving complex problems, contributing to open-source projects, and 
 
 ---
 
+## 🎓 Education
+- **Bachelor of Science in Software Engineering**
+  - Institute of Information Technology(IIT)
+  - University of Dhaka, Expected Graduation: 2028
+  - **Relevant Coursework:** Data Structures, Algorithms, Operating Systems, Machine Learning, Software Design Patterns
+  - **Grade:**
+- **HSC**
+  - Nawab Siraj-Ud-Dowla Government College, Natore
+  - **Grade:** A+
+  - 
+
 ## 💡 Expertise & Technologies
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge">
-  <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge">
-  <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge">
-  <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge">
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge">
-  <img src="https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white&style=for-the-badge">
-  <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge">
-  <img src="https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge">
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge">
-  <!-- Add/remove badges for your tech stack -->
-</p>
+## 💻 Programming Skills
+
+### Languages
+![C](https://img.shields.io/badge/C_-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Swing](https://img.shields.io/badge/Swing-32CD32?style=for-the-badge&logoColor=white)
+![Robotics](https://img.shields.io/badge/Robotics-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+<!--
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |  [YouTube](https://) |-->
+
+### 🤖 Robotics & Hardware
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![ESP-32](https://img.shields.io/badge/ESP-32-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)
+![Embedded C](https://img.shields.io/badge/Embedded_C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+
+### 🛠️ Tools & Technologies
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![INTELLIJ](https://img.shields.io/badge/INTELLIJ-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
+
+### 📚 Academic Focus
+![Data Structures](https://img.shields.io/badge/Data_Structures-4479A1?style=for-the-badge&logo=c&logoColor=white)
+![Algorithms](https://img.shields.io/badge/Algorithms-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Software Design](https://img.shields.io/badge/Software_Design-FF6F00?style=for-the-badge&logo=java&logoColor=white)
+![Operating Systems](https://img.shields.io/badge/Operating_Systems-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
@@ -70,6 +98,27 @@ I thrive on solving complex problems, contributing to open-source projects, and 
 
 ---
 
+## 🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=hamim-24&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+</div>
+
+## 📈 Activity Graph
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hamim-24&theme=react-dark&hide_border=true" alt="Activity Graph" />
+</div>
+
+## 🌱 Currently Learning
+- **Course - [Software Engineering](https://github.com/hamim-24/Software-Engineering-Course) at IIT-DU**
+- **Advanced Data Structures & Algorithms**
+- **Embedded Systems Programming**
+- **Machine Learning for Robotics**
+- **Real-time Operating Systems (RTOS)**
+- **Object Oriented Programming**
+- **Computer Vision**
+- **Distributed Systems**
+
+  
 ## 📬 Connect with Me
 
 <p align="center">
