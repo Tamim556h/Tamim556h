@@ -58,17 +58,13 @@ I thrive on solving complex problems, contributing to open-source projects, and 
 <!--
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |  [YouTube](https://) |-->
 
-🌐 Web Development
+### 🌐 Web Development
 
 ![alt text](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-
 ![alt text](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-
 ![alt text](https://img.shields.io/badge/node.js-6DA55F?logo=node.js&logoColor=white)
-
 ![alt text](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-![alt text](h[[2](https://www.google.com/url?sa=E&q=https%3A%2F%2Fvertexaisearch.cloud.
 
 
 ### 🤖 Robotics & Hardware
