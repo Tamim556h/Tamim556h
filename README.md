@@ -119,7 +119,7 @@ I thrive on solving complex problems, contributing to open-source projects, and 
 </div>
 
 ## 🌱 Currently Learning
-- **Course - [Software Engineering](https://github.com/hamim-24/Software-Engineering-Course) at IIT-DU**
+- **Course - [Software Engineering](https://github.com/Tamim556h/Software-Engineering-Course) at IIT-DU**
 - **Advanced Data Structures & Algorithms**
 - **Embedded Systems Programming**
 - **Machine Learning for Robotics**
