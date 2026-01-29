@@ -22,12 +22,13 @@
 
 ## 👨‍💼 About Me
 
-Hi, I'm **Tamim Hossain** — a results-driven Software Engineer with a strong background in building scalable applications and leading development teams.  
-I thrive on solving complex problems, contributing to open-source projects, and driving innovation in fast-paced environments.
-
+Hi, I'm **Tamim Hossain** —
+<!-- 
 - 💼 **Role:** Senior Software Engineer | Tech Lead  
-- 🌍 **Location:** Dhaka, Bangladesh. 
+
 - 🎯 **Mission:** Delivering reliable solutions and fostering collaborative growth  
+-->
+- 🌍 **Location:** Dhaka, Bangladesh. 
 - 🗣️ **Languages:** English,Bangla,Hindi  
 - 📫 **Contact:** mdtamimhossen556@gmail.com
 
