@@ -22,16 +22,8 @@
 
 ## 👨‍💼 About Me
 
-Hi, I'm **Tamim Hossain** —
-<!-- 
-- 💼 **Role:** Senior Software Engineer | Tech Lead  
-
-- 🎯 **Mission:** Delivering reliable solutions and fostering collaborative growth  
--->
-- 🌍 **Location:** Dhaka, Bangladesh. 
-- 🗣️ **Languages:** English,Bangla,Hindi  
-- 📫 **Contact:** mdtamimhossen556@gmail.com
-
+Hi, I'm **Tamim Hossen** — i'm here for Learning 
+ 
 ---
 
 ## 🎓 Education
@@ -43,7 +35,11 @@ Hi, I'm **Tamim Hossain** —
 - **HSC**
   - Nawab Siraj-Ud-Dowla Government College, Natore
   - **Grade:** A+
-  - 
+ 
+
+- 🌍 **Location:** Dhaka, Bangladesh. 
+- 🗣️ **Languages:** English,Bangla,Hindi  
+- 📫 **Contact:** mdtamimhossen556@gmail.com
 
 ## 💡 Expertise & Technologies
 
@@ -109,10 +105,6 @@ Hi, I'm **Tamim Hossain** —
 
 ---
 
-## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hamim-24&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
-</div>
 
 ## 📈 Activity Graph
 <div align="center">
@@ -141,12 +133,6 @@ Hi, I'm **Tamim Hossain** —
 
 ---
 
-## 🎯 Highlights
-
-- 🏆 **Award-winning developer:** Recognized for technical excellence and leadership.
-- 🧩 **Community builder:** Organizer of local meetups and hackathons.
-- 🤝 **Mentor:** Supporting new developers in open-source and career growth.
-- 📚 **Continuous learner:** Always exploring cutting-edge technologies.
 
 ---
 
