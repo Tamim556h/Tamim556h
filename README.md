@@ -1,6 +1,6 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:fc466b,100:3f5efb&height=180&section=header&text=Tamim%20Hossain&fontSize=40&fontAlign=50&fontAlignY=30&desc=Software%20Engineer%20%7C%20Open%20Source%20Contributor%20%7C%20Tech%20Leader&descAlign=50&descAlignY=60" alt="Tamim's Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:fc466b,100:3f5efb&height=180&section=header&text=Hi i'm Tamim%20Hossen&fontSize=40&fontAlign=50&fontAlignY=30&desc=Software%20Engineer%20%7C%20Open%20Source%20Contributor%20%7C%20Tech%20Leader&descAlign=50&descAlignY=60" alt="Tamim's Banner"/>
 </p>
 
 <!-- Animated Greeting -->
