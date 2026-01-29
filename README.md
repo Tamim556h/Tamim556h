@@ -5,13 +5,11 @@
 
 <!-- Animated Greeting -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=800&color=3F5EFB&center=true&vCenter=true&width=440&lines=Bubuilding+robust+solutions+with+passion.;AI+ML+Enthusiast.;Delivering+impactful+code+every+day." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=800&color=3F5EFB&center=true&vCenter=true&width=440&lines=Bubuilding+robust+solutions+with+passion..;AI+ML+Enthusiast.;Delivering+impactful+code+every+day." alt="Typing SVG" />
 </p>
 
 <!-- Avatar and Social Badges -->
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/your-github-id?v=4" width="120" style="border-radius:50%" alt="Tamim's Avatar"/>
-  <br>
   <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/your-linkedin/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://twitter.com/your-twitter"><img src="https://img.shields.io/badge/-Twitter-1da1f2?style=for-the-badge&logo=twitter&logoColor=white"></a>
